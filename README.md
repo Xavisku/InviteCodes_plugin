@@ -11,6 +11,7 @@ O InviteCodes é um plugin para o servidor PocketMine-MP que permite aos jogador
 
 ## Requisitos
 
+- API 3.0.0(não testado em outros) 
 - API de economia (suporta EconomyAPI, PocketMoney, MassiveEconomy e GoldStd)
 - FormAPI plugin (opcional, mas necessário para uso dos formulários)
 
